@@ -1,4 +1,4 @@
-Thirst-EE-Intro
+Thirst-EE-Intro (beta)
 ===============
 When it comes to building websites, the handover to the client can sometimes be the hardest part, as there is no guarantee that they have had experience with the platform their new site is built on. Our aim, always, is to educate the client enough that they can use their site confidently and get the most out of it without having issues every time they need to complete a minor task. On top of that, not all sites are the same, we often include custom features and generic documentation just doesn’t cut it for these. So we’ve come up with a unique solution that lets us write documentation that can be as tailored or generic as we like and include it as a mini FAQ in the expressionengine control panel, thus answering the majority of questions in the context of the control panel.
 
